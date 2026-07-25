@@ -1,0 +1,11 @@
+streamlit
+pypdf
+pydantic
+groq
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+sentence-transformers
